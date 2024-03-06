@@ -1,0 +1,16 @@
+{
+  "name": "minhbear1942002/tead_defi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "minhbear1942002",
+  "repository": "https://github.com/minhbear/tea_defi.git",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
